@@ -57,7 +57,7 @@ You can find exported images or PDFs of the design in the `/screenshots` folder.
 
 | Screen | Preview |
 |--------|---------|
-| Logo Screen | ![Logo](screenshots/logo.png) |
+| Logo Screen | ![Logo](Mockups/LogoScreen-1.png) |
 | Onboard 1 | ![Onboard1](screenshots/onboard1.png) |
 | Home | ![Home](screenshots/home.png) |
 | Add Recipe | ![AddRecipe](screenshots/add-recipe.png) |
