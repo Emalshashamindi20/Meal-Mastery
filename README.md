@@ -51,16 +51,73 @@ The goal of this design is to provide a clean, warm, and intuitive meal planning
 Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page-id=0%3A1&node-id=243-123&p=f&viewport=1939%2C1340%2C0.08&t=IV4dqna4JrCSpFvj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=243%3A123&show-proto-sidebar=1
 
 
-## 🖼️ Screenshots
+## 🖼️ UI
+<table>
+  <tr>
+    <td align="center">
+      <img src="Mockups/LogoScreen-1.png" width="200"/><br/>
+      <strong>Logo Screen</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/LogoScreen-2.png" width="200"/><br/>
+      <strong>Logo Screen 2</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/OnboardScreen-1.png" width="200"/><br/>
+      <strong>Onboard Screen 1</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/OnboardScreen-2.png" width="200"/><br/>
+      <strong>Onboard Screen 2</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/OnboardScreen-3.png" width="200"/><br/>
+      <strong>Onboard Screen 3</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Mockups/SignIn.png" width="200"/><br/>
+      <strong>Sign In</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/SignUp.png" width="200"/><br/>
+      <strong>Sign Up</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/HomeScreen.png" width="200"/><br/>
+      <strong>Home Screen</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/Category.png" width="200"/><br/>
+      <strong>Category Screen</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/AddRecipe.png" width="200"/><br/>
+      <strong>Add Recipe</strong>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td align="center">
+      <img src="Mockups/ItemIngredients.png" width="200"/><br/>
+      <strong>Item Ingredients</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/ItemSteps.png" width="200"/><br/>
+      <strong>Item Steps</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/Favorites.png" width="200"/><br/>
+      <strong>Favorite Screen</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/Profile.png" width="200"/><br/>
+      <strong>Profile Screen</strong>
+    </td>
+  </tr>
+</table>
 
-You can find exported images or PDFs of the design in the `/screenshots` folder. Here are a few highlights:
-
-| Screen | Preview |
-|--------|---------|
-| Logo Screen | ![Logo](Mockups/LogoScreen-1.png) |
-| Onboard 1 | ![Onboard1](screenshots/onboard1.png) |
-| Home | ![Home](screenshots/home.png) |
-| Add Recipe | ![AddRecipe](screenshots/add-recipe.png) |
 
 
 
