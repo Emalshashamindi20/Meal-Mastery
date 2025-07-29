@@ -134,6 +134,8 @@ Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page
 
 [Click here to watch the Record](record.mp4)
 
+[Click here to watch the Record](UIRecord/rec.mp4)
+
 
 
 
