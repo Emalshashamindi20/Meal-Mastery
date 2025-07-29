@@ -55,68 +55,76 @@ Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page
 <table>
   <tr>
     <td align="center">
-      <img src="Mockups/LogoScreen-1.png" width="200"/><br/>
+      <img src="Mockups/LogoScreen-1.png" width="400"/><br/>
       <strong>Logo Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/LogoScreen-2.png" width="200"/><br/>
+      <img src="Mockups/LogoScreen-2.png" width="400"/><br/>
       <strong>Logo Screen 2</strong>
     </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-1.png" width="200"/><br/>
+      <img src="Mockups/OnboardScreen-1.png" width="400"/><br/>
       <strong>Onboard Screen 1</strong>
     </td>
+  </tr>
+  <tr>
+    </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-2.png" width="200"/><br/>
+      <img src="Mockups/OnboardScreen-2.png" width="400"/><br/>
       <strong>Onboard Screen 2</strong>
     </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-3.png" width="200"/><br/>
+      <img src="Mockups/OnboardScreen-3.png" width="400"/><br/>
       <strong>Onboard Screen 3</strong>
+    </td>
+      <td align="center">
+      <img src="Mockups/SignIn.png" width="400"/><br/>
+      <strong>Sign In</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Mockups/SignIn.png" width="200"/><br/>
-      <strong>Sign In</strong>
-    </td>
-    <td align="center">
-      <img src="Mockups/SignUp.png" width="200"/><br/>
+      <img src="Mockups/SignUp.png" width="400"/><br/>
       <strong>Sign Up</strong>
     </td>
     <td align="center">
-      <img src="Mockups/HomeScreen.png" width="200"/><br/>
+      <img src="Mockups/HomeScreen.png" width="400"/><br/>
       <strong>Home Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Category.png" width="200"/><br/>
+      <img src="Mockups/Category.png" width="400"/><br/>
       <strong>Category Screen</strong>
-    </td>
-    <td align="center">
-      <img src="Mockups/AddRecipe.png" width="200"/><br/>
-      <strong>Add Recipe</strong>
     </td>
   </tr>
  
   <tr>
     <td align="center">
-      <img src="Mockups/ItemIngredients.png" width="200"/><br/>
+      <img src="Mockups/AddRecipe.png" width="400"/><br/>
+      <strong>Add Recipe</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/ItemIngredients.png" width="400"/><br/>
       <strong>Item Ingredients</strong>
     </td>
     <td align="center">
-      <img src="Mockups/ItemSteps.png" width="200"/><br/>
+      <img src="Mockups/ItemSteps.png" width="400"/><br/>
       <strong>Item Steps</strong>
-    </td>
+  </tr>
+  <tr>
+        </td>
     <td align="center">
-      <img src="Mockups/Favorites.png" width="200"/><br/>
+      <img src="Mockups/Favorites.png" width="400"/><br/>
       <strong>Favorite Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Profile.png" width="200"/><br/>
+      <img src="Mockups/Profile.png" width="400"/><br/>
       <strong>Profile Screen</strong>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
