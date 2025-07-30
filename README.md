@@ -1,3 +1,5 @@
+<img src="Post.png" width="400"/><br/>
+
 # 🍽️ Meal Mastery - UI/UX Design
 
 **Meal Mastery** is a thoughtfully crafted UI/UX design project for a modern mobile food recipe application, developed using Figma. This app is built to deliver a seamless, inspiring, and visually appealing user experience for cooking enthusiasts, home chefs, and anyone who enjoys discovering and organizing recipes.
