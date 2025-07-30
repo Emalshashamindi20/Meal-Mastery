@@ -154,9 +154,7 @@ Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page
 </table>
 
 
-<video width="600" controls>
-  <source src="record.mp4" type="video/mp4">
-</video>
+
 
 
 
