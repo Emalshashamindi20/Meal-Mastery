@@ -85,55 +85,55 @@ Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page
 <table>
   <tr>
     <td align="center">
-      <img src="Mockups/LogoScreen-1.png" width="400"/><br/>
+      <img src="Mockups/LogoScreen-1.png" width="500" /><br/>
       <strong>Logo Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/LogoScreen-2.png" width="400"/><br/>
+      <img src="Mockups/LogoScreen-2.png" width="500"/><br/>
       <strong>Logo Screen 2</strong>
     </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-1.png" width="400"/><br/>
+      <img src="Mockups/OnboardScreen-1.png" width="500"/><br/>
       <strong>Onboard Screen 1</strong>
     </td>
   </tr>
   <tr>
     </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-2.png" width="400"/><br/>
+      <img src="Mockups/OnboardScreen-2.png" width="500"/><br/>
       <strong>Onboard Screen 2</strong>
     </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-3.png" width="400"/><br/>
+      <img src="Mockups/OnboardScreen-3.png" width="500"/><br/>
       <strong>Onboard Screen 3</strong>
     </td>
       <td align="center">
-      <img src="Mockups/SignIn.png" width="400"/><br/>
+      <img src="Mockups/SignIn.png" width="500"/><br/>
       <strong>Sign In</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Mockups/SignUp.png" width="400"/><br/>
+      <img src="Mockups/SignUp.png" width="500"/><br/>
       <strong>Sign Up</strong>
     </td>
     <td align="center">
-      <img src="Mockups/HomeScreen.png" width="400"/><br/>
+      <img src="Mockups/HomeScreen.png" width="500"/><br/>
       <strong>Home Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Category.png" width="400"/><br/>
+      <img src="Mockups/Category.png" width="500"/><br/>
       <strong>Category Screen</strong>
     </td>
   </tr>
  
   <tr>
     <td align="center">
-      <img src="Mockups/AddRecipe.png" width="400"/><br/>
+      <img src="Mockups/AddRecipe.png" width="500"/><br/>
       <strong>Add Recipe</strong>
     </td>
     <td align="center">
-      <img src="Mockups/ItemIngredients.png" width="400"/><br/>
+      <img src="Mockups/ItemIngredients.png" width="500"/><br/>
       <strong>Item Ingredients</strong>
     </td>
     <td align="center">
@@ -143,11 +143,11 @@ Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page
   <tr>
         </td>
     <td align="center">
-      <img src="Mockups/Favorites.png" width="400"/><br/>
+      <img src="Mockups/Favorites.png" width="500"/><br/>
       <strong>Favorite Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Profile.png" width="400"/><br/>
+      <img src="Mockups/Profile.png" width="500"/><br/>
       <strong>Profile Screen</strong>
     </td>
   </tr>
