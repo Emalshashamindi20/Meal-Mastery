@@ -56,10 +56,10 @@ This design includes the following key screens:
 | Light Gray      | `#E8E8E8` | Background blocks, Brders    |
 
 
-## 🎨 Typography 
+## 🔤 Typography 
   - The typography used in Meal Mastery was carefully selected to ensure readability, clarity, and visual harmony across all screens. The chosen fonts reflect a balance between modern aesthetics and user-friendly functionality.
 
-## 🎨 Design Tool 
+## 🛠️ Design Tool 
   - The entire UI/UX design was created using Figma, a powerful, cloud-based interface design and prototyping tool widely used to design work. By using Figma, this project reflects best practices in UI/UX design workflows and demonstrates the practical application of modern design systems and tools.
 
 
