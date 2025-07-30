@@ -1,6 +1,31 @@
 # 🍽️ Meal Mastery - UI/UX Design
 
-**Meal Mastery** is a modern and user-friendly food recipe app designed to help users discover, organize, and manage their favorite meals effortlessly. This project includes a complete UI/UX design with 12 beautiful screens designed in Figma.
+**Meal Mastery** is a thoughtfully crafted UI/UX design project for a modern mobile food recipe application, developed using Figma. This app is built to deliver a seamless, inspiring, and visually appealing user experience for cooking enthusiasts, home chefs, and anyone who enjoys discovering and organizing recipes.
+
+The project focuses on simplicity, warmth, and functionality — providing users with an intuitive way to browse, save, and submit recipes with clean navigation and attractive visuals. From welcoming users with engaging onboarding screens to allowing them to add personalized recipe content, Meal Mastery creates a cohesive and user-centered design journey from start to finish.
+
+This project demonstrates my proficiency in creating end-to-end mobile interfaces, applying design principles such as consistency, hierarchy, accessibility, and aesthetic balance.
+
+
+
+
+# 🎯 Project Overview
+The goal of this project was to design a complete mobile recipe application interface that could potentially be developed into a functional product. The app targets everyday users who seek inspiration in the kitchen and want to organize their favorite meals in one place.
+
+The design process involved:
+
+- **Crafting a consistent visual identity through color, typography, and layout**
+
+- **Mapping user flows from onboarding to recipe discovery and contribution**
+
+- **Ensuring an intuitive and responsive design that works across devices**
+
+- **Enhancing usability with clean layouts and straightforward interactions**
+
+Meal Mastery includes fully designed screens, each created with user goals in mind. The overall design is minimal yet vibrant, with a color palette that evokes warmth and creativity. Whether a user is a beginner or an experienced cook, the app ensures that finding, following, and sharing recipes is a delightful experience.
+
+This UI/UX project highlights my ability to conceptualize a digital product from the user’s perspective and bring it to life through well-structured design components.
+
 
 ## 📱 App Screens Overview
 
@@ -31,9 +56,12 @@ This design includes the following key screens:
 | Light Gray      | `#E8E8E8` | Background blocks, Brders    |
 
 
-## 🎯 Goal
+## 🎨 Typography 
+  - The typography used in Meal Mastery was carefully selected to ensure readability, clarity, and visual harmony across all screens. The chosen fonts reflect a balance between modern aesthetics and user-friendly functionality.
 
-The goal of this design is to provide a clean, warm, and intuitive meal planning and recipe-sharing experience for users who love cooking and exploring food.
+## 🎨 Design Tool 
+  - The entire UI/UX design was created using Figma, a powerful, cloud-based interface design and prototyping tool widely used to design work. By using Figma, this project reflects best practices in UI/UX design workflows and demonstrates the practical application of modern design systems and tools.
+
 
 ## 🎨 Design Highlights
 
