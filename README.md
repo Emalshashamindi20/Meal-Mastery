@@ -80,6 +80,8 @@ This design includes the following key screens:
 
 Prototype - https://www.figma.com/proto/mnH8eBrTH2LVZoqSo8EXzg/Meal-Mastery?page-id=0%3A1&node-id=243-123&p=f&viewport=1939%2C1340%2C0.08&t=IV4dqna4JrCSpFvj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=243%3A123&show-proto-sidebar=1
 
+Behance - https://www.behance.net/gallery/231593685/MEAL-MASTERY-Food-Recipe-App-UI-UX-Design
+
 
 ## 🖼️ UI
 <table>
